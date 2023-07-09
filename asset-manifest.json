@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/newfurug/static/css/main.1e27bd44.css",
+    "main.css": "/newfurug/static/css/main.6be46921.css",
     "main.js": "/newfurug/static/js/main.58faa71e.js",
     "static/js/787.28cb0dcd.chunk.js": "/newfurug/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/newfurug/index.html",
-    "main.1e27bd44.css.map": "/newfurug/static/css/main.1e27bd44.css.map",
+    "main.6be46921.css.map": "/newfurug/static/css/main.6be46921.css.map",
     "main.58faa71e.js.map": "/newfurug/static/js/main.58faa71e.js.map",
     "787.28cb0dcd.chunk.js.map": "/newfurug/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e27bd44.css",
+    "static/css/main.6be46921.css",
     "static/js/main.58faa71e.js"
   ]
 }
