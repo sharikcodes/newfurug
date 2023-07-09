@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newfurug/static/css/main.221bd46a.css",
+    "main.js": "/newfurug/static/js/main.58faa71e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/newfurug/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/newfurug/index.html",
+    "main.221bd46a.css.map": "/newfurug/static/css/main.221bd46a.css.map",
+    "main.58faa71e.js.map": "/newfurug/static/js/main.58faa71e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/newfurug/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221bd46a.css",
+    "static/js/main.58faa71e.js"
+  ]
+}
